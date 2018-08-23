@@ -1,18 +1,13 @@
 ---
 permalink: /contact/
+title: "Contact"
 ---
-
-# Contact
-
-### Flight Room Associate Technician, Business Representative and Operator: 
-
-Ravi Haksar (rhaksar@stanford.edu)
 
 ### Principle Investigators:
 
-Mac Schwager (schwager@stanford.edu)
-Mykel Kochenderfer (mykel@stanford.edu)
-Marco Pavone (pavone@stanford.edu)
-Ilan Kroo (kroo@stanford.edu)
 Juan Alonso (jjalonso@stanford.edu)
+Mykel Kochenderfer (mykel@stanford.edu)
+Ilan Kroo (kroo@stanford.edu)
 Zachary Manchester (zacmanchester@stanford.edu)
+Marco Pavone (pavone@stanford.edu)
+Mac Schwager (schwager@stanford.edu)
