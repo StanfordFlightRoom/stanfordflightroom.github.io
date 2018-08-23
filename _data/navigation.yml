@@ -1,0 +1,36 @@
+main:
+  - title: "Access"
+    url: /access
+  - title: "Documentation"
+    url: /documentation
+  - title: "Calendar"
+    url: "https://calendar.google.com/calendar?cid=aDcwNGIwZ3ZnZGU0NzZzZWJnMzhsdmdobjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+  - title: "Contact"
+    url: /contact
+docs:
+  - title: "Quick Start Guide"
+    children:
+      - title: "Connecting to the Local Network"
+        # url: /network_start
+      - title: "Using Optitrack"
+        # url: /optitrack_start
+      - title: "Using ROS"
+        # url: /ros_start
+      - title: "Optional Setup"
+        # url: /optional_setup
+  - title: "Laboratory Setup"
+    children:
+      - title: "Wiring Diagram"
+        # url: /wiring
+      - title: "Time Synchronization"
+        # url: /time_sync
+      - title: "Computers"
+        # url: /computers
+  - title: "Motion Capture System"
+    children:
+      - title: "Natural Point Wiki"
+        url: "https://v20.wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki"
+      - title: "Optitrack Setup"
+        url: /motion_capture_optitrack
+      - title: "Motive Software"
+        url: /motion_capture_motive
