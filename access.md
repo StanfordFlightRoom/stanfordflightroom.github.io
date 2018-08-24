@@ -1,9 +1,6 @@
 ---
 permalink: access
 title: "Gaining Access to the Stanford Flight Room"
-layout: single
-<!-- sidebar:
-  nav: "blank" -->
 ---
 
 ## General Information

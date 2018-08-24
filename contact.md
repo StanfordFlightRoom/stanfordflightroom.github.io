@@ -1,9 +1,6 @@
 ---
-permalink: /contact/
+permalink: contact
 title: "Contact"
-layout: "single"
-<!-- sidebar:
-  nav: "blank" -->
 ---
 
 ## Associated Labs in the Department of Aeronautics and Astronautics
