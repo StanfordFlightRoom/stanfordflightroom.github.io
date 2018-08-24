@@ -2,13 +2,13 @@
 permalink: /contact/
 title: "Contact"
 layout: "single"
-sidebar:
-  nav: "blank"
+<!-- sidebar:
+  nav: "blank" -->
 ---
 
 ## Associated Labs in the Department of Aeronautics and Astronautics
 
-| Lab | Principle Investigator | Student Point-of-Contact|
+| Lab | Principal Investigator | Student Point-of-Contact|
 | --- |------------------------| ------------------------|
 | [ADL](http://adl.stanford.edu/) | [Juan Alonso ](http://adl.stanford.edu/people/jjalonso.html) | - |
 | [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | - |
