@@ -1,36 +1,43 @@
 main:
   - title: "Access"
-    url: /access
+    url: access
   - title: "Documentation"
-    url: /documentation
+    url: documentation
   - title: "Calendar"
-    url: "https://calendar.google.com/calendar/embed?src=h704b0gvgde476sebg38lvghn8%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+    url: "https://calendar.google.com/calendar?cid=aDcwNGIwZ3ZnZGU0NzZzZWJnMzhsdmdobjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
   - title: "Contact"
-    url: /contact
+    url: contact
 docs:
   - title: "Quick Start Guide"
     children:
       - title: "Connecting to the Local Network"
-        # url: /network_start
+        url: start_network
       - title: "Using Optitrack"
-        # url: /optitrack_start
+        url: start_optitrack
       - title: "Using ROS"
-        # url: /ros_start
+        url: start_ros
       - title: "Optional Setup"
-        # url: /optional_setup
+        url: start_optional_setup
   - title: "Laboratory Setup"
     children:
       - title: "Wiring Diagram"
-        # url: /wiring
+        url: setup_wiring_diagram
       - title: "Time Synchronization"
-        # url: /time_sync
+        url: setup_time_sync
       - title: "Computers"
-        # url: /computers
+        url: setup_computers
   - title: "Motion Capture System"
     children:
       - title: "Natural Point Wiki"
         url: "https://v20.wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki"
       - title: "Optitrack Setup"
-        url: /motion_capture_optitrack
+        url: motion_capture_optitrack
       - title: "Motive Software"
-        url: /motion_capture_motive
+        url: motion_capture_motive
+  - title: "Safety"
+    children:
+      - title: "General Safety Information"
+        url: safety_general
+      - title: "Lab Specific Training"
+        url: safety_lab_specific_training
+blank:
