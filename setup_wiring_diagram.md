@@ -6,4 +6,4 @@ sidebar:
   nav: "docs"
 ---
 
-Wiring. 
+![test](assets/wiring_diagram.png)
