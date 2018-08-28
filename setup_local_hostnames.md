@@ -5,7 +5,7 @@ sidebar:
   nav: "docs"
 ---
 
-Hostnames can be resolved on the Flight Room network without using a custom DNS or specifying static IP addresses through the router. All devices connected to the network must be running a Zero Configuration Networking (Zeroconf) service which then allows any device to referenced by adding `.local` to its hostname.
+Hostnames can be resolved on the Flight Room network without using a custom DNS or specifying static IP addresses through the router. All devices connected to the network must be running a Zero Configuration Networking (Zeroconf) service which then allows any device to be referenced by adding `.local` to its hostname.
 
 **Each device should have a unique hostname!**
 
@@ -61,8 +61,8 @@ in a command prompt.
 
 ## Changing hostnames
 
-[Ubuntu](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)  
-[Windows](https://kb.iu.edu/d/ajnx)
+[For Ubuntu](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)  
+[For Windows](https://kb.iu.edu/d/ajnx)
 
 ## Resources
 [ROS Network Setup](http://wiki.ros.org/ROS/NetworkSetup)
