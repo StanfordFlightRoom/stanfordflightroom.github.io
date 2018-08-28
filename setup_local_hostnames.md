@@ -4,6 +4,7 @@ title: "Using .local Hostnames"
 sidebar:
   nav: "docs"
 ---
+Hostnames are names assigned to a device on a network to more easily distinguish between devices instead of using a string of numbers (IP addresses). IP addresses may also be dynamically assigned, making it difficult to consistently reference the same device. 
 
 Hostnames can be resolved on the Flight Room network without using a custom DNS or specifying static IP addresses through the router. All devices connected to the network must be running a Zero Configuration Networking (Zeroconf) service which then allows any device to be referenced by adding `.local` to its hostname.
 
@@ -17,7 +18,7 @@ $ ssh username@marvin.local
 ```
 
 ## Zeroconf and ROS
-Using the `.local` hostname also works with ROS. Specify the ROS Master URI with
+Using the `.local` hostname also works with ROS. On Ubuntu, specify the ROS Master URI with
 ```bash
 $ export ROS_MASTER_URI = http://uri_hostname.local:11311
 ```
@@ -48,10 +49,10 @@ Otherwise, the package is available in the standard Ubuntu repositories and is i
 ```bash
 $ ping $HOSTNAME.local
 ```
-and making sure the address resolves successfully..
+and making sure the address resolves successfully.
 
 ### Windows 10
-Some applications ship with a Zeroconf service called `bounjour` including Skype and iTunes. Otherwise, the easiest way to install `bounjour` is to use the iTunes installer. If you don't want to install iTunes, download the iTunes installer and extract it using 7-Zip or WinRAR. There should be a separate Bonjour installer in the extracted files. 
+Some applications ship with a Zeroconf service called `bounjour` including Skype and iTunes. Otherwise, the easiest way to install `bounjour` is to install iTunes. If you don't want to install iTunes, download the iTunes installer and extract it using 7-Zip or WinRAR. There should be a separate Bonjour installer in the extracted files. 
 
 Check the service by running
 ```console
