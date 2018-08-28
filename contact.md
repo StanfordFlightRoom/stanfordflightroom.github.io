@@ -1,6 +1,7 @@
 ---
 permalink: contact
 title: "Contact"
+layout: "splash"
 ---
 
 ## Associated Labs in the Department of Aeronautics and Astronautics
