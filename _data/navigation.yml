@@ -20,10 +20,12 @@ docs:
         url: start_optional_setup
   - title: "Laboratory Setup"
     children:
-      - title: "Wiring Diagram"
-        url: setup_wiring_diagram
+      - title: "Local Hostnames"
+        url: setup_local_hostnames
       - title: "Time Synchronization"
         url: setup_time_sync
+      - title: "Wiring Diagram"
+        url: setup_wiring_diagram
       - title: "Computers"
         url: setup_computers
   - title: "Motion Capture System"
