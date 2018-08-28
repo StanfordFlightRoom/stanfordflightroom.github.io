@@ -11,18 +11,18 @@ Hostnames can be resolved on the Flight Room network without using a custom DNS 
 **Each device should have a unique hostname!**
 
 ## Example
-One computer uses the hostname `hal` and another uses the hostname `marvin`. If both run a Zerconf service and are on the same network, then `hal` contacts `marvin` using the address `marvin.local`, e.g.
+One computer uses the hostname `hal` and another uses the hostname `marvin`. If both run a Zeroconf service and are on the same network, then `hal` contacts `marvin` using the address `marvin.local`, e.g.
 ```bash
 $ ping marvin.local
 $ ssh username@marvin.local
 ```
 
 ## Zeroconf and ROS
-Using the `.local` hostname also works with ROS. On Ubuntu, specify the ROS Master URI with
+Using the `.local` hostname also works with ROS. On Ubuntu, specify `marvin` as the ROS Master with
 ```bash
-$ export ROS_MASTER_URI = http://uri_hostname.local:11311
+$ export ROS_MASTER_URI = http://marvin.local:11311
 ```
-and specify the ROS hostname using
+and specify the computer's ROS hostname using
 ```bash
 $ export ROS_HOSTNAME = $HOSTNAME.local
 ```
@@ -52,7 +52,7 @@ $ ping $HOSTNAME.local
 and making sure the address resolves successfully.
 
 ### Windows 10
-Some applications ship with a Zeroconf service called `bounjour` including Skype and iTunes. Otherwise, the easiest way to install `bounjour` is to install iTunes. If you don't want to install iTunes, download the iTunes installer and extract it using 7-Zip or WinRAR. There should be a separate Bonjour installer in the extracted files. 
+Some applications ship with a Zeroconf service called `bounjour` including Skype and iTunes. Otherwise, the easiest way to install `bounjour` is to install iTunes. If you don't want to install iTunes, download the iTunes installer and extract it using 7-Zip or WinRAR. There should be a separate `bonjour` installer in the extracted files. 
 
 Check the service by running
 ```console
