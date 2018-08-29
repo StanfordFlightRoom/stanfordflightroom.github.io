@@ -20,14 +20,16 @@ docs:
         url: start_optional_setup
   - title: "Laboratory Setup"
     children:
+      - title: "Wiring Diagram"
+        url: setup_wiring_diagram
       - title: "Lab Computers"
         url: setup_computers
       - title: "Local Hostnames"
         url: setup_local_hostnames
       - title: "Time Synchronization"
         url: setup_time_sync
-      - title: "Wiring Diagram"
-        url: setup_wiring_diagram
+      - title: "ROS Upstart"
+        url: setup_ros_upstart
   - title: "Motion Capture System"
     children:
       - title: "Natural Point Wiki"
