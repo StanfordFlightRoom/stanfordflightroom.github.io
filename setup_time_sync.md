@@ -39,5 +39,5 @@ $ ntpq -p
 Issues with NTP are usually resolved by restarting the service with `sudo service ntp restart` (or simply rebooting).
 
 ## Resources
-[ntp configuration reference](http://doc.ntp.org/4.1.1/confopt.htm)
+[ntp configuration reference](http://doc.ntp.org/4.1.1/confopt.htm)  
 [ntpq program reference](http://doc.ntp.org/4.1.0/ntpq.htm)
