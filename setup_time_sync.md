@@ -7,7 +7,7 @@ sidebar:
 
 Many embedded computers (such as the ones on drones or mobile robots) do not have a real-time clock that maintains the correct time between power cycles. For some applications, such as visualizing sensor data from multiple robots using ROS, the clocks for the robots need to be synchronized in order to properly visualize the data in RVIZ. 
 
-Typically, computers also use the internet to periodically adjust the clock. However, the Flight Room network does not have general internet access, in accordance with Stanford IT rules. Therefore, one of the computers in the Flight Room has been configured so that devices can receive the correct (internet) time. 
+Typically, computers also use the internet to periodically adjust the clock. However, the Flight Room network does not have general internet access, in accordance with Stanford IT rules. Therefore, the `relay` computer in the Flight Room (see [Lab Computers](/setup_computers)) has been configured so that devices can receive the correct (internet) time. 
 
 ## Network Time Protocol (NTP) Setup
 
@@ -36,7 +36,7 @@ $ ntpq -p
  3.ubuntu.pool.n .POOL.          16 p    -   64    0    0.000    0.000   0.000
  ntp.ubuntu.com  .POOL.          16 p    -   64    0    0.000    0.000   0.000
 ```
-Issues with NTP are usually resolved by restarting the service with `sudo service ntp restart` (or simply rebooting).
+Issues with NTP are usually resolved by restarting the service with `sudo service ntp restart` (or simply rebooting). Also note that there is an initialization period for syncing with a server through NTP so there may be a delay before `ntpq` indicates that `relay` is being used for synchronization. 
 
 ## Resources
 [ntp configuration reference](http://doc.ntp.org/4.1.1/confopt.htm)  
