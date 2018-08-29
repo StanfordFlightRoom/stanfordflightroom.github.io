@@ -4,7 +4,7 @@ title: "Using .local Hostnames"
 sidebar:
   nav: "docs"
 ---
-Hostnames are names assigned to a device on a network to more easily distinguish between devices instead of using a string of numbers (IP addresses). IP addresses may also be dynamically assigned, making it difficult to consistently reference the same device. 
+A hostname is a name assigned to a device on a network to more easily distinguish between devices instead of using a string of numbers (IP addresses). IP addresses may also be dynamically assigned, making it difficult to consistently reference the same device. 
 
 Hostnames can be resolved on the Flight Room network without using a custom DNS or specifying static IP addresses through the router. All devices connected to the network must be running a Zero Configuration Networking (Zeroconf) service which then allows any device to be referenced by adding `.local` to its hostname.
 
