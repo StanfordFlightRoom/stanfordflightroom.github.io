@@ -4,7 +4,7 @@ main:
   - title: "Documentation"
     url: documentation
   - title: "Calendar"
-    url: "https://calendar.google.com/calendar?cid=aDcwNGIwZ3ZnZGU0NzZzZWJnMzhsdmdobjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"
+    url: calendar
   - title: "Contact"
     url: contact
 docs:
