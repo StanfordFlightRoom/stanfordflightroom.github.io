@@ -49,7 +49,21 @@ Otherwise, the package is available in the standard Ubuntu repositories and is i
 ```bash
 $ ping $HOSTNAME.local
 ```
-and making sure the address resolves successfully.
+and making sure the address resolves successfully. If the the hostname does not resolve, try the following:  
+1. Install the `avahi` packages:
+```bash
+sudo apt-get install avahi-daemon avahi-dnsconfd avahi-discover avahi-utils
+```  
+2. Install `libnss-mdns`:
+```bash
+sudo apt-get install libnss-mdns
+```
+3. Check that `/etc/nsswitch.conf` has the following line:  
+```
+hosts:    files mdns4_minimal dns [NOTFOUND=return] mdns4
+```
+
+Restart `avahi` with `sudo service avahi-daemon restart` and try resolving .local hostnames.
 
 ### Windows 10
 Some applications ship with a Zeroconf service called `bounjour` including Skype and iTunes. Otherwise, the easiest way to install `bounjour` is to install iTunes. If you don't want to install iTunes, download the iTunes installer and extract it using 7-Zip or WinRAR. There should be a separate `bonjour` installer in the extracted files. 
