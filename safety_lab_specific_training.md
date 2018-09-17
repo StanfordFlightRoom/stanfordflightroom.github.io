@@ -6,4 +6,4 @@ sidebar:
   nav: "docs"
 ---
 
-Think Safety Training. 
+Coming soon. 

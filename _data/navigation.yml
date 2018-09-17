@@ -10,10 +10,10 @@ main:
 docs:
   - title: "Quick Start Guide"
     children:
-      - title: "Connecting to the Local Network"
-        url: start_network
       - title: "Using Optitrack"
         url: start_optitrack
+      - title: "Connecting to the Local Network"
+        url: start_network
       - title: "Using ROS"
         url: start_ros
       - title: "Optional Setup"
@@ -34,10 +34,10 @@ docs:
     children:
       - title: "Natural Point Wiki"
         url: "https://v20.wiki.optitrack.com/index.php?title=OptiTrack_Documentation_Wiki"
-      - title: "Optitrack Setup"
-        url: motion_capture_optitrack
       - title: "Motive Software"
         url: motion_capture_motive
+      - title: "Reading Data with ROS"
+        url: motion_capture_ros
   - title: "Safety"
     children:
       - title: "General Safety Information"
