@@ -14,12 +14,14 @@ Refer to [Connecting to the Local Network](/start_network), [Motive Software](/m
 ## Start the VRPN Server in Motive
 In Motive, under the `Data Streaming` pane, ensure the settings correspond to the ones shown below. 
 
-<img src="assets/mocap_datastreaming.png" alt="drawing" width="400"/>
+<p style="text-align:center;">
+<img src="assets/mocap_datastreaming.png" width="400"/>
+</p>
 
 The default pose that is published by VRPN is in the Y-up configuration. If desired, this can be changed to a Z-up configuration. 
 
 ## Start the VRPN Client in ROS
-On your ROS-enabled machine, install the ROS package [vrpn_client_ros](http://wiki.ros.org/vrpn_client_ros). This package ships with a launch file `sample.launch` that must be modified by changing line 3 from
+On your ROS-enabled machine, install the ROS package [vrpn_client_ros](http://wiki.ros.org/vrpn_client_ros). This package ships with a launch file `sample.launch`. Make a copy of this launch file and add it to your local catkin workspace (e.g., in the launch folder of one of your packages). Finally, modify the copied launch file by changing line 3 from
 ```bash
 <arg name="server" default="localhost"/>
 ```
@@ -27,4 +29,4 @@ to
 ```bash
 <arg name="server" default="mocap.local"/>
 ```
-Launching `sample.launch` will publish a `geometry_msgs/PoseStamped` message on the topic `vrpn/[asset_name]/pose`, where `[asset_name]` is the name of your asset (rigid body) in Motive. 
+Launching this new launch file will publish a `geometry_msgs/PoseStamped` message on the topic `vrpn/[asset_name]/pose`, where `[asset_name]` is the name of your asset (rigid body) in Motive. 

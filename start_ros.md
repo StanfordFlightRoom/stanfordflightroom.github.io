@@ -17,7 +17,7 @@ The [Robotic Operating System (ROS)](http://www.ros.org/about-ros/) is a collect
 $ export ROS_MASTER_URI = http://relay.local:11311
 $ export ROS_HOSTNAME = $HOSTNAME.local
 ```
-* Hint: these commands may be added to your `~/.bashrc` file to run each time your start a new bash session. 
+* Hint: add these commands to your `~/.bashrc` which will execute each time you start a new bash session
 
 ### How do I read data from Optitrack on my personal computer (or robot)?
 Refer to [Reading Data with ROS](/motion_capture_ros)
