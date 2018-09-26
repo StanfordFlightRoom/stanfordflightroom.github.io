@@ -44,6 +44,6 @@ Rigid bodies, or `assets`, are labeled by their name. This information can be ac
 ## Optitrack Troubleshooting Guide 
 1. **The system won't acquire wanding points for calibration**: ensure the wand markers are not damaged, you are not wearing anything reflective for the system, and that the markers are physically in the correct position on the calibration wand (in the `A` configuration). 
 2. **The cameras will not appear up in Motive**: power cycle the entire system (switches, router, and `mocap` computer). 
-3. **A camera stopped transmitting data**: first try power cycling the entire system. If that doesn't work you should report the problem. In the meantime, simply calibrate without that camera and use the system as normally (it should still be quite accurate). 
+3. **A camera stopped transmitting data**: first try power cycling the entire system. If that doesn't work you should report the problem. In the meantime, simply calibrate without that camera and use the system as normal (it should still be quite accurate). 
 
 
