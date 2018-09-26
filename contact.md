@@ -6,7 +6,11 @@ layout: "splash"
 
 ## Associated Labs in the Department of Aeronautics and Astronautics
 
-| Lab | Principal Investigator | Student Point-of-Contact|
+Comments, questions, or concerns may be directed to the current points-of-contact for the quarter. 
+
+**Fall Quarter Lab Point-of-Contact:** MSL
+
+| Lab Name | Principal Investigator | Student Safety Coordinators|
 | --- |------------------------| ------------------------|
 | [ADL](http://adl.stanford.edu/) | [Juan Alonso ](http://adl.stanford.edu/people/jjalonso.html) | - |
 | [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | - |

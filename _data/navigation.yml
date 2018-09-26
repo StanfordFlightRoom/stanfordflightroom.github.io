@@ -42,5 +42,5 @@ docs:
     children:
       - title: "General Safety Information"
         url: safety_general
-      - title: "Lab Specific Training"
-        url: safety_lab_specific_training
+      - title: "Lab Specific Training Document"
+        url: lab_specific_training/LabSpecificTraining.pdf

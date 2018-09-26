@@ -1,0 +1,121 @@
+%-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+%
+% File Name:		main.tex
+% Date Created:   	2018/09/25
+% Date Modified:  	2018/09/25
+%
+% Author:			Eric Cristofalo, PhD Candidate & NDSEG Fellow
+% Affiliation:		Multi-robot Systems Laboratory, Stanford University
+% Contact:		ecristof@stanford.edu
+%				Durand Building, 496 Lomita Mall, Room 028
+%				Stanford, 94305
+%
+% Description:    	Stanford Flight Room - Lab Specific Training Document
+%
+%-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\documentclass[letterpaper,11pt]{article}
+\setlength{\textwidth}{17.5cm}\setlength{\textheight}{23cm}
+\setlength{\oddsidemargin}{-0.5cm} \setlength{\topmargin}{-1.25cm}
+
+\usepackage{graphicx}		% importing graphics
+\usepackage{array}			% tables and arrays
+\usepackage{bm}			% bold symbol
+\usepackage{comment}		% commenting
+\usepackage{multirow}		% tabular cells spanning multiple rows
+\usepackage{multicol}		% tabular cells spanning multiple columns
+\usepackage{subfigure}		% sub-figures
+\usepackage{fancyhdr} 		% to add custom header and page count
+\usepackage{lastpage} 		% to add last page to page count
+\renewcommand{\thefootnote}{\fnsymbol{footnote}} % to add symbols to footnotes
+\usepackage{xcolor}			% colored text
+\usepackage{hhline}			% for double lines in tables
+\usepackage{hyperref}		% for clickable boxes in pdf
+
+\newcommand{\linespace}{\vspace{4mm}}		% for vertical line spaces
+
+\definecolor{stanford_red}{rgb}{0.549,0.082,0.082}
+\newcommand{\red}[1]{\textcolor{stanford_red}{#1}}
+\definecolor{grey}{rgb}{0.7,0.7,0.7}
+\newcommand{\grey}[1]{\textcolor{grey}{#1}}
+
+% remove section numbers:
+\makeatletter
+\renewcommand{\@seccntformat}[1]{}
+\makeatother
+
+\graphicspath{{./figures/}}
+
+\title{} % no title
+\date{} % no date
+\author{} % no author
+\begin{document}
+%\maketitle
+%\thispagestyle{empty} % no title
+
+\pagestyle{fancy}  % include for page numbers with last page number
+%\renewcommand{\headrulewidth}{0pt} % remove line in fancyhdr
+\lfoot{\small{\textit{\grey{Last edited by Eric Cristofalo on \today. }}}}
+\cfoot{}
+\rfoot{Page \thepage\ of \pageref{LastPage}}
+\fancyhead[RE,LO]{\sc{Stanford Flight Room}}
+\fancyhead[R]{\sc{Lab Specific Training Document}}
+
+%------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\noindent
+\begin{tabular}{lll}
+	\textbf{Lab Name}: 			& Stanford Flight Room & \\
+	\textbf{Department}: 			& Aeronautics and Astronautics & \qquad\qquad\qquad \textit{\grey{Signatures:}} \\
+	\textbf{Location}: 			& Durand 001 & \\
+	\textbf{Principal Investigator}:	&  \TextField[name=pi_name, width=6cm]{} & \TextField[name=pi_signature, width=6cm]{}\\
+	&\\
+	\textbf{Safety Coordinator}:	&  \TextField[name=coordinator_name, width=6cm]{} & \TextField[name=coordinator_signature, width=6cm]{} \\
+	&\\
+	\textbf{Student Name}:		& \TextField[name=student_name, width=6cm]{} &  \TextField[name=student_signature, width=6cm]{}\\
+	&\\
+	\textbf{Student Email}:		& \TextField[name=student_email, width=6cm]{} & \\
+	&\\
+	\textbf{Training Date}:		& \TextField[name=date, width=6cm]{} & \\
+\end{tabular}
+
+\linespace\noindent
+The lab specific training is for access to the Stanford Flight Room (Durand 001). It is administered by one of the lab's safety coordinators. The student should complete the preliminary checklist \textbf{prior} to scheduling a meeting with a safety coordinator. This document should be submitted to the safety coordinator after all training is complete.
+
+\section{\red{Stanford's Safety Training Requirements}}
+\begin{enumerate}
+	\item[\textbf{I}] STARS online training: EHS-4200
+	\item[\textbf{II}] Lab specific training
+	\item[\textbf{III}] Stanford School of Engineering training administered by Dayna Michaiel (drp@stanford.edu)
+\end{enumerate}
+
+\section{\red{Preliminary Checklist}}
+\noindent
+The student should complete the following items \textbf{prior} to meeting with the lab safety coordinator. 
+
+\linespace\noindent
+\begin{tabular}{ll}
+	\CheckBox[name=preliminary1, width=1em] &Familiarize yourself with the Stanford Flight Room's website: \\
+		& \url{https://stanfordflightroom.github.io/} \\
+	\CheckBox[name=preliminary2, width=1em] & Complete the STARS online courses EHS-4200. \\
+\end{tabular}
+
+\section{\red{Lab Safety Training Checklist}}
+\noindent
+This section is completed by the lab safety coordinator. 
+
+\linespace\noindent
+\begin{tabular}{ll}
+	\CheckBox[name=check1, width=1em] &Introduction to Stanford Flight Room\\
+	\CheckBox[name=check2, width=1em] &Emergency Access Point (EAP) for Durand\\
+	\CheckBox[name=check3, width=1em] &Personal Protective Equipment (PPE)\\
+	\CheckBox[name=check4, width=1em] &Fire extinguisher\\
+	\CheckBox[name=check5, width=1em] &Batteries\\
+	\CheckBox[name=check6, width=1em] &Robots\\
+	\CheckBox[name=check7, width=1em] &Motion Capture System\\
+\end{tabular}
+
+%-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\addtolength{\textheight}{-12cm}   % This command serves to balance the column lengths on the last page of the document manually. It shortens the textheight of the last page by a suitable amount. This command does not take effect until the next page so it should come on the page before the last. Make sure that you do not shorten the textheight too much.
+\end{document}
+%-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -24,6 +24,11 @@ It is every lab member’s responsibility to maintain the health and safety of t
   Building & Property Administrator – School of Engineering  
   frank.george@stanford.edu (650-384-9578)
 
+## In the Event of an Emergency:
+1. Get everyone out of the lab!
+2. Call 911
+3. Only then try to manage the problem (e.g. attempt to put out a fire with an extinguisher)
+
 ## Basic Lab Rules
 1. Clean up after yourself and return items to their original, marked locations
 2. Turn off equipment after use. If equipment has been left on, check with others in the lab before turning off.

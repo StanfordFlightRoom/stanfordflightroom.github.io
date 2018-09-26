@@ -9,7 +9,7 @@ Gaining access to the Stanford Flight Room requires three steps and is dependent
 
 1. All students must complete the following online safety course before working in the space.  
 *EHS-4200-WEB (General Safety, Injury Prevention (IIPP), and Emergency Preparedness)*  
-2. All students must complete the lab-specific training corresponding to your affiliation with the associated labs. 
+2. All students must complete the [lab specific training](lab_specific_training/LabSpecificTraining.pdf) corresponding to your affiliation with the associated labs. 
 3. Apply for card access depending on your affiliation with the associated labs. 
 
 ## Student Members of the Associated Labs
