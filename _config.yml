@@ -2,6 +2,12 @@ remote_theme: mmistakes/minimal-mistakes
 title: Stanford Flight Room
 description: Information for the Flight Room in the Durand building basement at Stanford University.
 
+plugins:
+  - jekyll-include-cache
+
+whitelist:
+  - jekyll-include-cache
+
 defaults:
   - scope:
       path: ""
