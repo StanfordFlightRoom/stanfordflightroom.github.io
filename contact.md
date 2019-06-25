@@ -8,16 +8,16 @@ layout: "splash"
 
 Comments, questions, or concerns may be directed to the current points-of-contact for the quarter. 
 
-**Fall Quarter Lab Point-of-Contact:** MSL
+**Current Lab Point-of-Contact:** RExLab
 
 | Lab Name | Principal Investigator | Student Safety Coordinators|
 | --- |------------------------| ------------------------|
 | [ADL](http://adl.stanford.edu/) | [Juan Alonso ](http://adl.stanford.edu/people/jjalonso.html) | - |
 | [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | - |
 | Kroo's Lab | [Ilan Kroo](https://profiles.stanford.edu/ilan-kroo) | - |
-| Manchester's Lab | [Zachary Manchester](http://zacmanchester.github.io/) | - |
+| [RExLab](https://rexlab.stanford.edu/) | [Zachary Manchester](http://zacmanchester.github.io/) | [Taylor Howell](https://rexlab.stanford.edu/people.html), [Brian Jackson](https://rexlab.stanford.edu/people.html) |
 | [ASL](https://asl.stanford.edu/) | [Marco Pavone](http://web.stanford.edu/~pavone/) | [Joseph Lorenzetti](https://asl.stanford.edu/people/joseph-lorenzetti/) |
-| [MSL](https://msl.stanford.edu/) | [Mac Schwager](https://web.stanford.edu/~schwager/) | [Eric Cristofalo](https://msl.stanford.edu/people/eric-cristofalo) |
+| [MSL](https://msl.stanford.edu/) | [Mac Schwager](https://web.stanford.edu/~schwager/) | [Eric Cristofalo](https://msl.stanford.edu/people/eric-cristofalo), [Ravi Haksar](https://msl.stanford.edu/people/ravi-haksar) |
 
 ## Location
 496 Lomita Mall  
