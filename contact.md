@@ -13,7 +13,7 @@ Comments, questions, or concerns may be directed to the current points-of-contac
 | Lab Name | Principal Investigator | Student Safety Coordinators|
 | --- |------------------------| ------------------------|
 | [ADL](http://adl.stanford.edu/) | [Juan Alonso ](http://adl.stanford.edu/people/jjalonso.html) | - |
-| [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | [Rachael Tompa](mailto:rtompa2@stanford.edu) |
+| [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | [Oriana Peltzer](mailto:peltzer@stanford.edu) |
 | Ilan Kroo's Lab | [Ilan Kroo](https://profiles.stanford.edu/ilan-kroo) | [Jean de Becdelievre](mailto:jeandb@stanford.edu) |
 | [RExLab](https://rexlab.stanford.edu/) | [Zachary Manchester](http://zacmanchester.github.io/) | [Taylor Howell](https://rexlab.stanford.edu/people.html), [Brian Jackson](https://rexlab.stanford.edu/people.html) |
 | [ASL](https://asl.stanford.edu/) | [Marco Pavone](http://web.stanford.edu/~pavone/) | [Joseph Lorenzetti](https://asl.stanford.edu/people/joseph-lorenzetti/) |
