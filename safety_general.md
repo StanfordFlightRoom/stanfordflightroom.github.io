@@ -8,21 +8,33 @@ sidebar:
 
 It is every lab member’s responsibility to maintain the health and safety of the lab space, not only the safety coordinators. This includes following lab protocol, keeping the lab space clean and organized, and reporting all problems or incidents. Please report any and all issues to both the safety coordinator and a PI. If you have questions or concerns beyond the safety coordinator or PI, please refer to the following list of key points of contact.
 
-**Jenny Scholes**  
-  Aero/Astro Student Services  
+### Durand Building Issues
+
+*Jenny Scholes*  
+  Aeronautics and Astronautics Student Services  
   jscholes@stanford.edu (650-723-3317)
 
-**Dayna Michaiel**  
-  Health and Safety Specialist – School of Engineering  
-  drp@stanford.edu (925-876-5009)
+*Eduardo Morales*  
+  School of Engineering Building & Property Administrator  
+  eduardo.morales@stanford.edu (650-384-9581)
 
-**Jennifer Mattler**  
-  Research Safety Specialist – EH&S  
+### Stanford EH&S Issues
+
+*Naomi Takahashi*  
+  EH&S Research Safety Specialist  
+  ntakahashi@stanford.edu (650-724-3905)
+
+*Merry Weeks*  
+  School of Engineering Senior Health & Safety Specialist  
+  mweeks@stanford.edu (650-725-1619)
+
+*Jennifer Mattler*  
+  EH&S Assistant Chemical Hygiene Officer  
   jmattler@stanford.edu (650-723-0183)
 
-**Frank B. George**  
-  Building & Property Administrator – School of Engineering  
-  frank.george@stanford.edu (650-384-9578)
+*Leslie O’Rourke-Garrett*  
+  School of Engineering Associate Director of Building Operations and Safety  
+  leslieog@stanford.edu (650-206-0226)
 
 ## In the Event of an Emergency:
 1. Get everyone out of the lab!
