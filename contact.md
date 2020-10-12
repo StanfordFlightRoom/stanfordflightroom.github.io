@@ -8,7 +8,7 @@ layout: "splash"
 
 Comments, questions, or concerns may be directed to the current point-of-contact for the quarter. 
 
-**The 2020 Winter Quarter Lab Point-of-Contact is:** ADL
+**The 2020 Autumn Quarter Lab Point-of-Contact is:** SISL
 
 | Lab Name | Principal Investigator | Student Safety Coordinators|
 | --- |------------------------| ------------------------|
