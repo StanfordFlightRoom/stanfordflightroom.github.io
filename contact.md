@@ -18,6 +18,7 @@ Comments, questions, or concerns may be directed to the current point-of-contact
 | [RExLab](https://rexlab.stanford.edu/) | [Zachary Manchester](http://zacmanchester.github.io/) | [Taylor Howell](https://rexlab.stanford.edu/people.html), [Brian Jackson](https://rexlab.stanford.edu/people.html) |
 | [ASL](https://asl.stanford.edu/) | [Marco Pavone](http://web.stanford.edu/~pavone/) | [Joseph Lorenzetti](https://asl.stanford.edu/people/joseph-lorenzetti/) |
 | [MSL](https://msl.stanford.edu/) | [Mac Schwager](https://web.stanford.edu/~schwager/) | [Adam Caccavale](https://msl.stanford.edu/people/adam-caccavale), [Ravi Haksar](https://msl.stanford.edu/people/ravi-haksar) |
+| [NAVLab](https://navlab.stanford.edu/) | [Grace Gao](https://aa.stanford.edu/person/grace-gao) | [Adam Dai](mailto:addai@stanford.edu) |
 
 ## Location
 496 Lomita Mall  
