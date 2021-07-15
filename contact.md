@@ -15,9 +15,8 @@ Comments, questions, or concerns may be directed to the current point-of-contact
 | [ADL](http://adl.stanford.edu/) | [Juan Alonso ](http://adl.stanford.edu/people/jjalonso.html) | [Jean de Becdelievre](mailto:jeandb@stanford.edu) |
 | [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | [Oriana Peltzer](mailto:peltzer@stanford.edu) |
 | -- | [Ilan Kroo](https://profiles.stanford.edu/ilan-kroo) | [Jean de Becdelievre](mailto:jeandb@stanford.edu) |
-| [RExLab](https://rexlab.stanford.edu/) | [Zachary Manchester](http://zacmanchester.github.io/) | [Taylor Howell](https://rexlab.stanford.edu/people.html), [Brian Jackson](https://rexlab.stanford.edu/people.html) |
 | [ASL](https://asl.stanford.edu/) | [Marco Pavone](http://web.stanford.edu/~pavone/) | [Joseph Lorenzetti](https://asl.stanford.edu/people/joseph-lorenzetti/) |
-| [MSL](https://msl.stanford.edu/) | [Mac Schwager](https://web.stanford.edu/~schwager/) | [Adam Caccavale](https://msl.stanford.edu/people/adam-caccavale), [Ravi Haksar](https://msl.stanford.edu/people/ravi-haksar) |
+| [MSL](https://msl.stanford.edu/) | [Mac Schwager](https://web.stanford.edu/~schwager/) | [Adam Caccavale](https://msl.stanford.edu/people/adam-caccavale), [JunEn Low](https://msl.stanford.edu/people/junenlow) |
 | [NAVLab](https://navlab.stanford.edu/) | [Grace Gao](https://aa.stanford.edu/person/grace-gao) | [Adam Dai](mailto:addai@stanford.edu) |
 
 ## Location
