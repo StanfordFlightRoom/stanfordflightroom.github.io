@@ -13,7 +13,7 @@ Comments, questions, or concerns may be directed to the current point-of-contact
 | Lab Name | Principal Investigator | Student Safety Coordinators|
 | --- |------------------------| ------------------------|
 | [ADL](http://adl.stanford.edu/) | [Juan Alonso ](http://adl.stanford.edu/people/jjalonso.html) | [Jean de Becdelievre](mailto:jeandb@stanford.edu) |
-| [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | [Oriana Peltzer](mailto:peltzer@stanford.edu) |
+| [SISL](http://web.stanford.edu/group/sisl/cgi-bin/wordpress/) | [Mykel Kochenderfer](http://mykel.kochenderfer.com/) | [Duncan Eddy](mailto:deddy@stanford.edu) |
 | -- | [Ilan Kroo](https://profiles.stanford.edu/ilan-kroo) | [Jean de Becdelievre](mailto:jeandb@stanford.edu) |
 | [ASL](https://asl.stanford.edu/) | [Marco Pavone](http://web.stanford.edu/~pavone/) | [Joseph Lorenzetti](https://asl.stanford.edu/people/joseph-lorenzetti/) |
 | [MSL](https://msl.stanford.edu/) | [Mac Schwager](https://web.stanford.edu/~schwager/) | [Adam Caccavale](https://msl.stanford.edu/people/adam-caccavale), [JunEn Low](https://msl.stanford.edu/people/junenlow) |
