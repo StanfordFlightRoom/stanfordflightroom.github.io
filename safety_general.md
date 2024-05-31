@@ -8,38 +8,33 @@ sidebar:
 
 It is every lab member’s responsibility to maintain the health and safety of the lab space, not only the safety coordinators. This includes following lab protocol, keeping the lab space clean and organized, and reporting all problems or incidents. Please report any and all issues to both the safety coordinator and a PI. If you have questions or concerns beyond the safety coordinator or PI, please refer to the following list of key points of contact.
 
-### Durand Building Issues
+### SoE Facilities for Building and Lab issues
+
+*Marcos Barba*  
+SoE Building Manager, Durand 355A  
+[mbarba@stanford.edu](mbarba@stanford.edu) (650-206-3196)
+ 
+*Sade Shafer*  
+SoE Health & Safety, Durand 355A  
+[fasmiley@stanford.edu](fasmiley@stanford.edu) (650-629-5513)
+
+### Stanford EH&S Issues
+
+*Jack Reidy*  
+EH&S Research Safety, EH&S Facility  
+[jreidy2@stanford.edu](jreidy2@stanford.edu) (650-497-7614)
+
+## Durand Building Student Services
 
 *Jenny Scholes*  
   Aeronautics and Astronautics Student Services  
   jscholes@stanford.edu (650-723-3317)
 
-*Eduardo Morales*  
-  School of Engineering Building & Property Administrator  
-  eduardo.morales@stanford.edu (650-384-9581)
-
-### Stanford EH&S Issues
-
-*Naomi Takahashi*  
-  EH&S Research Safety Specialist  
-  ntakahashi@stanford.edu (650-724-3905)
-
-*Merry Weeks*  
-  School of Engineering Senior Health & Safety Specialist  
-  mweeks@stanford.edu (650-725-1619)
-
-*Jennifer Mattler*  
-  EH&S Assistant Chemical Hygiene Officer  
-  jmattler@stanford.edu (650-723-0183)
-
-*Leslie O’Rourke-Garrett*  
-  School of Engineering Associate Director of Building Operations and Safety  
-  leslieog@stanford.edu (650-206-0226)
 
 ## In the Event of an Emergency:
-1. Get everyone out of the lab!
-2. Call 911
-3. Only then try to manage the problem (e.g. attempt to put out a fire with an extinguisher)
+1. Call the EH&S hotline number for emergencies, including after hours, at 650-725-9999
+2. For medical, fire, or law enforcement assistance, call 911.
+3. In the event of an evacuation, meet at the Durand EAP located between Earth and Skilling.
 
 ## Basic Lab Rules
 1. Clean up after yourself and return items to their original, marked locations
